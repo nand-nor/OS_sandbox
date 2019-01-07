@@ -1,0 +1,47 @@
+Name:	tcsh
+Umask:	0077
+State:	S (sleeping)
+Tgid:	11978
+Ngid:	0
+Pid:	11978
+PPid:	11977
+TracerPid:	0
+Uid:	37889	37889	37889	37889
+Gid:	40	40	40	40
+FDSize:	64
+Groups:	40 
+VmPeak:	  129832 kB
+VmSize:	  129828 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    2124 kB
+VmRSS:	    2116 kB
+RssAnon:	     696 kB
+RssFile:	    1420 kB
+RssShmem:	       0 kB
+VmData:	     852 kB
+VmStk:	     132 kB
+VmExe:	     368 kB
+VmLib:	    2216 kB
+VmPTE:	      68 kB
+VmSwap:	       0 kB
+Threads:	1
+SigQ:	0/15077
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000002
+SigIgn:	0000000000384004
+SigCgt:	0000000009812003
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	0000001fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	3
+Cpus_allowed_list:	0-1
+Mems_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	733
+nonvoluntary_ctxt_switches:	1
